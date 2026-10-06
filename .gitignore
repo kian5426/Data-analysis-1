@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+# course submission artifacts
+result.zip
+answers.npz
