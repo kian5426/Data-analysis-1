@@ -67,7 +67,7 @@ Top 10 companies by mean rating (2012 onward): Patric, Tobago Estate (Pralus), W
 ## Getting started
 
 ```bash
-git clone https://github.com/kian5426/chocolate-analysis.git
+git clone https://github.com/kian5426/Data-analysis-1.git
 cd chocolate-analysis
 pip install -r requirements.txt
 jupyter lab
